@@ -62,7 +62,7 @@ export default function App() {
           oficial.
         </p>
 
-        <iframe width="1000" height="480" src="https://www.youtube.com/embed/1dAtxHzNvXg" title="CONVOCAÇÃO: Vamos Trazer Classroom Of The Elite para o BRASIL! | Veja como" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe   src="https://www.youtube.com/embed/1dAtxHzNvXg" title="CONVOCAÇÃO: Vamos Trazer Classroom Of The Elite para o BRASIL! | Veja como"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
 
         <h1 className='title2'>Como Ajudar?</h1>
         <h2 className='subtitle1'>Editoras</h2>
